@@ -37,6 +37,7 @@
         </div>
         <?php }?>
       </div>
+      <h4 style="color:white" class="text-center">Numero di album:<?php echo count($database)?></h4>
     </div>
   </main>
 </body>
